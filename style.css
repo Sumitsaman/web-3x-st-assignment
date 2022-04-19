@@ -1,0 +1,16 @@
+.home {
+    background-image: url('capa-min.jpg');
+    background-image: center cover;
+    background-attachment: scroll;
+    height: 100vh;
+    width: 100%;
+    color: white;
+    body {
+        background: #ff0000;
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+    
+   
+    
+   
